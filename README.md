@@ -2,7 +2,7 @@
 
 A REST API for tracking personal income/expenses, built with Spring Boot, PostgreSQL, and Spring Security (JWT auth).
 
-## Status: 🚧 In development
+## Status: In development
 
 ## Tech Stack
 - Java 21, Spring Boot 4
