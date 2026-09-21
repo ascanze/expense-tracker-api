@@ -15,3 +15,13 @@ A REST API for tracking personal income/expenses, built with Spring Boot, Postgr
 - CRUD for transactions and categories
 - Monthly/category spending summaries
 - Budget limits with alerts
+
+## Progress
+- [x] Project setup (Spring Boot, PostgreSQL via Docker, JPA)
+- [x] Entity models: User, Category, Transaction (with relationships)
+- [x] Repositories (Spring Data JPA)
+- [ ] Authentication (JWT + password hashing)
+- [ ] Service layer
+- [ ] REST endpoints
+- [ ] Budget/summary logic
+
